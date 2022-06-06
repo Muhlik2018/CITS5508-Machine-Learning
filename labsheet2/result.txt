@@ -1,0 +1,13 @@
+acc	classifier	only drop cols	dealt outliers	resacling	oversampling	encode
+0.954545455	svm	1				
+0.954545455	svm		1			
+0.954545455	svm			1		
+0.954545455	svm				1	
+0.868686869	sgd	1				
+0.873737374	sgd		1			
+0.883838384	sgd			1		
+0.888888889	sgs				1	
+0.954545455	svm		1	1	1	
+0.878787879	sgd		1	1	1	
+0.949494949	svm		1	1	1	1
+0.939393939	sgd		1	1	1	1

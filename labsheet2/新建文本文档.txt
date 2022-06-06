@@ -1,0 +1,5 @@
+acc donothing: svm acc: 0.9545454545454546
+acc rescaling svm acc: 0.9494949494949495
+acc rescaling and delete outliers acc: 0.9494949494949495
+acc delete outliers: 0.9545454545454546
+acc oversampling: 0.9545454545454546
